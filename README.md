@@ -46,7 +46,8 @@
   <li>No harass me</li>
   <li>No spamming chat and ping, NSFW pictures and server</li>
   <li>No allowed cursing word other user</li>
-  <li>Comingsoon...</li>
+  <li>3-6 year inactive user, will manage kick (New)</li>
+  <li>Soon...</li>
   <li></li>
   
 </ol>
@@ -65,4 +66,4 @@
 
 ### 规则码版本：<https://github.com/ProRTM205111X/Rules/releases/tag/MyRule-0.1.3>
 
-# 更新于2026.5.8
+# 更新于2026.5.25
