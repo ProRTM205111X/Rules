@@ -31,7 +31,7 @@
 ## English
 
 <ol>
-  <h2>YouTube<h2>
+  <h2>YouTube</h2>
   <li>No allowed stole my video, use my video audio content do shorts (I will warning)</li>
   <li>No allowed impersonating my channel (profile desc, pfp, channel name)</li>
   <li>Don't spamming video duration point (Only *:* notext, and repeat), and curse other user</li>
@@ -41,6 +41,7 @@
   <h2>Special</h2>
   <li>I will check community, channel and listed subscription content</li>
 </ol>
+    
 <ol>
   <h2>Discord</h2>
   <li>No harass me</li>
@@ -51,8 +52,9 @@
   <li></li>
   
 </ol>
+
 <ol>
-  <h2>Bilibili<h2>
+  <h2>Bilibili</h2>
   <li>No allowed stole my video, use my video audio content do shorts (I will reproting)</li>
   <li>No allowed impersonating my channel (bio, pfp, channel name)</li>
   <li>Don't spamming video duration point, and curse other user</li>
